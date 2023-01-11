@@ -1,0 +1,4 @@
+Deverá ser possível consultar filmes pelo título
+Deverá ser possível consultar filmes pelo ator
+Deverá ser possível cadastrar novos filmes (importação de arquivo txt por streaming)
+Deverá ser possível cadastrar novos serviços de streaming (somente admin do sistema)
