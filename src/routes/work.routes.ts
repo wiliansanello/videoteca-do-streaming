@@ -32,7 +32,7 @@ workRoutes.post("/work", (request, response) => {
         ageRating
     });
 
-    return response.status(201);
+    return response.status(201).send();
 
 });
 
